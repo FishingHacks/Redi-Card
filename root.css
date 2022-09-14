@@ -47,6 +47,7 @@ h6 {
 }
 
 #sidebar a {
+  transition: color 200ms;
   text-decoration: none;
   margin: 10px 0px;
 }
@@ -148,6 +149,7 @@ h6 {
 }
 
 a:hover {
+  transition: color 200ms;
   color: #60a5fa;
 }
 
