@@ -2,7 +2,7 @@
 
 Original >> https://github.com/RedCrafter07/card
 
-RedCrafter07 >> [github](https://github.com/RedCrafter07) [Web](https://redcrafter07.de) [Devpage](https://dev.redcrafter07.de/)
+RedCrafter07 >> [github](https://github.com/RedCrafter07) | [Web](https://redcrafter07.de) | [Devpage](https://dev.redcrafter07.de/)
 
 ---
 
